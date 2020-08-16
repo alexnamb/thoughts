@@ -7,8 +7,6 @@ img:    #    Add    image    post    (optional)
 tags:    [Poem,    Patriotism]    #    add    tag
 ---
 
-#    അമ്മ ഭാരതാംബതൻ
-
 അമ്മ ഭാരതാംബതൻ  
 മക്കൾ ഞങ്ങളേവരും  
 ഒന്നിച്ചണിചേർന്നുച്ചത്തിൽ  
