@@ -1,7 +1,7 @@
 ---
 layout: post
 title: വിജയകാഹളം
-date: 2020-08-15 00:00:00 +0300
+date: 2020-08-15 00:00:00 +0000
 description: A poem on India on Independence Day. # Add post description (optional)
 img:  # Add image post (optional)
 tags: [Poem, Patriotism] # add tag
