@@ -3,7 +3,7 @@ layout:    post
 title:    അരികിലണയാത്ത ഓണം
 date:    2020-09-01    00:00:00    +0000
 description:    Arikil Anayatha Onam. A poem on Onam during the Covid period
-img:    #    Add    image    post    (optional)
+img: onam_flowers.webp
 tags:    [Poem, Onam]
 ---
 

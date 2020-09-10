@@ -2,9 +2,9 @@
 layout:    post
 title:    അമ്മ ഭാരതാംബതൻ
 date:    2020-08-15    00:00:00    +0000
-description:    A    poem    on    Mother India    on    Independence    Day.    #    Add    post    description    (optional)
-img:    #    Add    image    post    (optional)
-tags:    [Poem,    Patriotism]    #    add    tag
+description:    A    poem    on    Mother India    on    Independence    Day.
+img: india-sat.jpg
+tags: [Poem, Patriotism]
 ---
 
 അമ്മ ഭാരതാംബതൻ  

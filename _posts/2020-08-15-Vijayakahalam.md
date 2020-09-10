@@ -2,8 +2,8 @@
 layout:  post
 title:  വിജയകാഹളം
 date:  2020-08-15  00:00:00  +0000
-description:  A  poem  on  India  on  Independence  Day.  #  Add  post  description  (optional)
-img:  #  Add  image  post  (optional)
+description:  A  poem  on  India  on  Independence  Day.
+img: indian-flag.jpg
 tags:  [Poem,  Patriotism]  #  add  tag
 ---
 
@@ -38,3 +38,7 @@ tags:  [Poem,  Patriotism]  #  add  tag
 വിജയവർണ്ണ  കൊടിപിടിച്ചു  വിശ്വമേ  ഭരിക്കുവാൻ
 
 **-അലക്സ് നമ്പ്യാപറമ്പിൽ**
+
+------------
+
+_Credits: Photo by Still Pixels from Pexels_
