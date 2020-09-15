@@ -33,3 +33,16 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+google_analytics:
+  id: 'UA-177864439-1'          # Fill with your Google Analytics ID
+  pv:
+    # The Google Analytics pageviews switch.
+    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
+    enabled: false
+    # the next options only valid when `google_analytics.pv` is enabled.
+    proxy_url: ''
+    proxy_endpoint: ''
+    cache: false  # pv data local cache, good for the users from GFW area."
+
+google_site_verification: 6jJJlccgKseFtNhPXSdIH115Juh105kkaMMgLSf1-0k
