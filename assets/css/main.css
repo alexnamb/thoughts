@@ -1168,7 +1168,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'Baloo Chettan 2', 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1204,6 +1204,7 @@ a.newer-posts:hover {
 .wrap-content {
   padding: 20px;
   font-family: 'Baloo Chettan 2';
+  font-size: 20px;
 }
 
 .header-page {
