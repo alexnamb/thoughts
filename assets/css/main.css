@@ -6,6 +6,10 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2|malayalam');
+
+
 html {
   line-height: 1.15;
   /* 1 */
@@ -1007,6 +1011,7 @@ table tfoot td {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  font-family: 'Baloo Chettan 2';
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1019,6 +1024,7 @@ table tfoot td {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  
 }
 
 .contact .contact-title {
@@ -1197,6 +1203,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
+  font-family: 'Baloo Chettan 2';
 }
 
 .header-page {
