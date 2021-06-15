@@ -4,7 +4,7 @@ title:    ആദിയിലഖിലേശൻ
 date:    2021-06-12    00:00:00    +0000
 description:    In the beginning
 img: adhiyilakileshan.jpg
-tags: [Poem, Devotional, Christian]
+tags: [Song, Devotional, Christian]
 ---
 
 ആദിയിലഖിലേശൻ അലിവാർന്ന ഹൃത്താൽ  
