@@ -34,4 +34,4 @@ _ഛിൽ... ഛിൽ ഛിൽ ഛിൽ... ഛിൽ ഛിൽ
 **-അലക്സ് നമ്പ്യാപറമ്പിൽ**
 
 ----------
-_Credits: Photo by Lumina Obscura from pixabay.com_  
+_Credits: Photo by sasint from pixabay.com_  
