@@ -35,7 +35,7 @@ paginate_path: "/page/:num"
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 google_analytics:
-  id: 'UA-177223659-1'          # Fill with your Google Analytics ID
+  id: 'UA-199666309-1'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
