@@ -35,4 +35,4 @@ tags: [Song, Christian, Devotional]
 **-അലക്സ് നമ്പ്യാപറമ്പിൽ**
 
 ----------
-_Credits: Photo by [Peter](https://www.pexels.com/@peter-267718) from [Pexels](https://www.pexels.com/)_
+_Credits: Photo by [congerdesign](https://pixabay.com/users/congerdesign-509903/) from [pixabay.com](https://pixabay.com/)_  
