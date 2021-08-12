@@ -1,9 +1,9 @@
 ---
 layout:    post
 title: അമ്മേ വന്ദനം
-date: 2021-06-23    00:00:00    +0000
+date: 2021-08-12    00:00:00    +0000
 description: Patriotic poem on Indian Independence Day - August 15 2021
-img: amme vandanam.jpg
+img: ammevandanam.jpg
 tags: [Poem, Patriotism]
 ---
 
