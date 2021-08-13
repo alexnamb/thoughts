@@ -2,7 +2,7 @@
 layout:    post
 title: നന്ദി പ്രിയ വിദ്യാലയമേ
 date: 2021-08-13    00:00:00    +0000
-description: In memory of Infant Jesus High School Vazhakulam on its 100th anniversary
+description: A tribute to Infant Jesus High School Vazhakulam on its 100th anniversary
 img: infantjesusschool.jpg
 tags: [Poem, School]
 ---
@@ -43,4 +43,4 @@ tags: [Poem, School]
 **-അലക്സ് നമ്പ്യാപറമ്പിൽ**
 
 ----------
-_This was written in 2011 as a memorial to Infant Jesus Higher Secondary School, Vazhakulam on its 100th Anniversary on its annual magazine `ശതാബ്‌ദി സ്മരണിക 1911 - 2011`_
+_This was written in 2011 as a tribute to Infant Jesus Higher Secondary School, Vazhakulam on its 100th Anniversary on its annual magazine `ശതാബ്‌ദി സ്മരണിക 1911 - 2011`_
